@@ -1,3 +1,5 @@
+List of all ASCII accents to translate to unaccented letters
+
 Š=S
 Œ=Oe
 Ž=Z
